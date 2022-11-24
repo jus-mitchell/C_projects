@@ -1,8 +1,5 @@
 /*
 Name Justice Mitchell
-Pawprint JSMFVY
-Class CS 1050
-Lab Lab 10
  */
 
 // includes

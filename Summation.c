@@ -1,8 +1,5 @@
 /* 
 Name: Justice Mitchell
-Pawprint: JSMFVY
-Course: CS 1050
-Lab: Lab 5
 */
 
 #include <stdio.h> 

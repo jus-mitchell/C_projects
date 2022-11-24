@@ -1,8 +1,5 @@
 /* 
 Name: Justice Mitchell
-Pawprint: JSMFVY
-Course: CS1050
-Lab: Lab 6
 */
 
 

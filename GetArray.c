@@ -1,7 +1,4 @@
 // Name: Justice Mitchell
-// Pawprint: jsmfvy
-// Class: CS 1050
-// Lab: Lab 8
 
 #include <stdio.h> 
 

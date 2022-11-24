@@ -1,7 +1,4 @@
 // Name: Justice Mitchell
-// JSMFVY
-// CS1050
-// Lab 9
 
 #include <stdio.h>
 #define MAXSIZE 512

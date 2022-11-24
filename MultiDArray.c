@@ -1,7 +1,4 @@
 // Name: Justice Mitchell
-// Pawprint: JSMFVY
-// Class: CS1050
-// Lab: Lab7
 
 #include <stdio.h>
 #define COLS 3
